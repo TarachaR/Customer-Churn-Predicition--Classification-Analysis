@@ -52,7 +52,7 @@ Dataset Glossary Download Link: https://bit.ly/3gTideq
 
 NB: Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
-[Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
+[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
 
 ---
 
@@ -68,7 +68,7 @@ NB: Each row represents a customer, each column contains customer’s attributes
 9. Make recommendations.
 10. Challenge solution.
 
-[Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
+[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
 
 ---
 
@@ -77,14 +77,14 @@ NB: Each row represents a customer, each column contains customer’s attributes
 
 * However, from our analysis, we see that customers who made at least 2 calls to customer service are likely to churn.
 
-[Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
+[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
 
 ---
 
 ## Recommendations
 The company should come up with a solution that caters to customers that make two or more calls to customer service. They should also collect more data, preferably those that will make the current dataset more balanced, e.g., more customers from Area Codes 408 and 510, more customers who churned, and more customers subscribed to the international plan.
 
-[Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
+[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
 
 ---
 
@@ -95,7 +95,7 @@ The company should come up with a solution that caters to customers that make tw
 
 * Finally, hyperparameter tuning should be carried out on the current models to improve them.
 
-[Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
+[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
 
 ---
 
@@ -104,7 +104,7 @@ The company should come up with a solution that caters to customers that make tw
 - Twitter - https://twitter.com/Vycellous_Drum
 - Website - https://richardtaracha.glitch.me/
 
-[Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
+[Back To The Top](#Customer-Churn-Predicition--Classification-Analysis)
 
 
 
